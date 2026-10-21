@@ -1,0 +1,30 @@
+[
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free and build projects.",
+    "language": "JavaScript",
+    "stars": 408000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is built with web technologies.",
+    "language": "TypeScript",
+    "stars": 221000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "vuejs/vue",
+    "description": "The Progressive JavaScript Framework.",
+    "language": "JavaScript",
+    "stars": 206000,
+    "url": "https://github.com/vuejs/vue"
+  },
+  {
+    "name": "facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library.",
+    "language": "JavaScript",
+    "stars": 229000,
+    "url": "https://github.com/facebook/react"
+  }
+]
